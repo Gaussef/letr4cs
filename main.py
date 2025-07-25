@@ -1,2 +1,2 @@
 import os
-os.system("python letr4c/load/load.py")
+os.system("python letra4c/load/load.py")
